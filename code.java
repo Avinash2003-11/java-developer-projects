@@ -50,6 +50,7 @@ public class code {
         pro.score = 10;
 
         System.out.println(pro.level);
+        System.out.println("welcome to java";)
         
     }
 }
